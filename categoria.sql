@@ -1,0 +1,1 @@
+INSERT INTO Categoria (nombre) VALUES ('Computadoras');

@@ -1,0 +1,1 @@
+SELECT * FROM Articulo ORDER BY stock DESC LIMIT 100;
